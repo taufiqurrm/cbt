@@ -33,7 +33,7 @@
 				<div class="panel panel-default" style="margin-top: 80px">
 					<p align="center" style="padding-top: 10px"><img src="../___/img/mtsbu.png" height="100vw" /></p>
 					<div class="panel-heading">
-						<h4 align="center" style="margin: 5px"><b>CBT MTs. BU</b></h4>
+						<h4 align="center" style="margin: 5px"><b>ASSESMEN MADRASAH</b></h4>
 					</div>
 					<div class="panel-body">
 						<div id="konfirmasi"></div>
